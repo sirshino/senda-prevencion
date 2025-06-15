@@ -1,0 +1,5 @@
+---
+{"Autores":["Rodrigo Ledesma"],"Nivel":["Nivel Central"],"Actualizado":"2025-06-13","Fecha de Creación":"2025-06-13","tags":["Conceptos","ConceptosGenerales"],"dg-publish":true,"df-home":false,"permalink":"/prevencion/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-13T08:38:57.444-04:00","updated":"2025-06-14T23:31:12.357-04:00"}
+---
+
+# Definición de Prevención 
