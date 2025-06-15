@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"df-home":true,"tags":["gardenEntry"],"permalink":"/home/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-15T01:11:33.644-04:00","updated":"2025-06-15T03:02:10.515-04:00"}
+{"dg-publish":true,"df-home":true,"tags":["gardenEntry"],"permalink":"/home/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-15T01:11:33.644-04:00","updated":"2025-06-15T10:24:25.006-04:00"}
 ---
 
 
 # Indice 
-Con cuática
 
 INDEX
 [[index\|index]]
