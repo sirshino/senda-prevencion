@@ -1,5 +1,5 @@
 ---
-{"Tema":["Educación","PrePARA2","Componente2"],"Nivel":["Nivel Central"],"dg-publish":true,"Fecha":"2020-05-08","permalink":"/orientaciones-tecnicas-niveles-de-desarrollo-en-establecimientos-educacionales/","dgPassFrontmatter":true,"noteIcon":"","created":"2020-05-08","updated":"2025-06-16T13:10:47.150-04:00"}
+{"Tema":["Educación","PrePARA2","Componente2"],"Nivel":["Nivel Central"],"dg-publish":true,"Fecha":"2020-05-08","permalink":"/orientaciones-tecnicas-niveles-de-desarrollo-en-establecimientos-educacionales/","dgPassFrontmatter":true,"noteIcon":"","created":"2020-05-08","updated":"2025-06-16T13:13:45.728-04:00"}
 ---
 
 # DESCRIPCIÓN
@@ -307,4 +307,4 @@ VINCULACIÓN CON EL MEDIO
 
 
 
-![[Orientaciones Técnicas Niveles de Desarrollo Preventivo en Establecimientos Educacionales.pdf]]
+[[Orientaciones Técnicas Niveles de Desarrollo Preventivo en Establecimientos Educacionales.pdf]]
