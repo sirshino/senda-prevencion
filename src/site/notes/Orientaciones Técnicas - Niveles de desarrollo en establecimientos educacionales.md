@@ -1,5 +1,5 @@
 ---
-{"Tema":["Educación","PrePARA2","Componente2"],"Nivel":["Nivel Central"],"dg-publish":true,"Fecha":"2020-05-08","permalink":"/orientaciones-tecnicas-niveles-de-desarrollo-en-establecimientos-educacionales/","dgPassFrontmatter":true,"noteIcon":"","created":"2020-05-08","updated":"2025-06-16T16:14:57.772-04:00"}
+{"Tema":["Educación","PrePARA2","Componente2"],"Nivel":["Nivel Central"],"dg-publish":true,"Fecha":"2020-05-08","permalink":"/orientaciones-tecnicas-niveles-de-desarrollo-en-establecimientos-educacionales/","dgPassFrontmatter":true,"noteIcon":"","created":"2020-05-08","updated":"2025-06-16T16:46:47.370-04:00"}
 ---
 
 # DESCRIPCIÓN
@@ -144,19 +144,19 @@ Se egresará un establecimiento educacional cuando en el análisis de su nivel d
 
 Los establecimientos educacionales que sean egresados deben considerar un **plan de seguimiento** durante el primer semestre 2021. Se plantea que para este acompañamiento, se realice el monitoreo de las acciones comprometidas en el taller, en abril 2021 (mes 4) y agosto 2021 (mes 8). En esta ocasión también se deberán sugerir acciones para que el EE vaya generando acciones de manera autónoma en cada uno de los tres ámbitos.
 
-●         FORTALECIMIENTO TÉCNICO
+### FORTALECIMIENTO TÉCNICO
 
 Importancia de revisar y generar un proceso de capacitación con los equipos comunales de textos de apoyo con información teórico-práctica en cada Ámbito de intervención: 
 
-○ Gestión Escolar Preventiva
+- Gestión Escolar Preventiva
 
-○ Involucramiento Escolar
+- Involucramiento Escolar
 
-○ Vinculación con el Medio
+- Vinculación con el Medio
 
-○ Análisis de Redes 
+- Análisis de Redes 
 
-○ Detección temprana (en proceso)
+- Detección temprana (en proceso)
 
 Estos mismos documentos se pueden entregar a EE (que sean PPEE), previo una capacitación sobre contenidos y actividades propuestas en los documentos. Para ello, es importante generar previamente un plan de capacitación regional y/o comunal. 
 
@@ -234,24 +234,25 @@ ACCIONES DE NIVEL COMUNAL (C)
 
 # MEDIOS DE VERIFICACIÓN E INSTRUMENTOS DE APOYO
 
-●      Lista de asistencia a taller ● Análisis de niveles de desarrollo.
+- Lista de asistencia a taller 
+- Análisis de niveles de desarrollo.
+- Plan de seguimiento con Establecimiento Educacional 
+- Análisis comunal del proceso → Sistematización regional del proceso 
 
-●      Plan de seguimiento con Establecimiento Educacional 
-
-●      Análisis comunal del proceso → Sistematización regional del proceso **ANEXO** 
+**ANEXO** 
 
 Actividades y acciones para elaboración de Niveles de Desarrollo 
 
-|   |   |   |   |
-|---|---|---|---|
-|**Actividades**|**Nivel**|**Acciones**|**Fechas**|
-|Entrega de orientacione s|N<br><br>N - R <br><br>R - C|Envío de orientaciones técnicas a equipos regionales<br><br>Videoconferencias de apoyo a la entrega de orientaciones<br><br>Entrega de orientaciones y capacitación a equipos SENDA Previene, mediante asesoría presencial o videoconferencias|1ra semana<br><br>de mayo<br><br>Mayo<br><br>Junio|
-|Aplicación<br><br>Niveles de<br><br>Desarrollo|C<br><br>N - R<br><br>- C<br><br>C - R|Inicio del proceso con EE <br><br>●      Elaboración de nómina comunal de EE para Niveles de<br><br>Desarrollo<br><br>●      Revisión en Sisprev de historial de trabajo con EE <br><br>Videoconferencias de apoyo al proceso (al menos 1 por región, grupal o individual)<br><br>Definición del nivel de desarrollo de los EE<br><br>●      Análisis cualitativo<br><br>●      Análisis de indicadores<br><br>●      Nivel de desarrollo<br><br>●      Presentación de resultados<br><br>●      Pasos a seguir con el EE|Julio<br><br>Julio a<br><br>Septiembre <br><br>Julio a<br><br>Octubre|
-|Análisis de la estrategia|C<br><br>R<br><br>R - N<br><br>N<br><br>N|Análisis comunal del proceso <br><br>Sistematización regional de los análisis comunales del proceso de Niveles de Desarrollo. <br><br>Videoconferencias de retroalimentación <br><br>Análisis nacional y sistematización<br><br>Ajustes a orientaciones técnicas PPEE 2021|Octubre<br><br>2 a 13 de<br><br>Noviembre <br><br>Semana del<br><br>23 de<br><br>Noviembre<br><br>16 a 27 de<br><br>Noviembre<br><br>Diciembre|
+|                                                |                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                |
+| ---------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Actividades**                                | **Nivel**                                 | **Acciones**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **Fechas**                                                                                                                                     |
+| Entrega de orientacione s                      | N<br><br>N - R <br><br>R - C              | Envío de orientaciones técnicas a equipos regionales<br><br>Videoconferencias de apoyo a la entrega de orientaciones<br><br>Entrega de orientaciones y capacitación a equipos SENDA Previene, mediante asesoría presencial o videoconferencias                                                                                                                                                                                                                                                                            | 1ra semana<br>de mayo<br>Mayo<br>Junio                                                                                                         |
+| Aplicación<br><br>Niveles de<br><br>Desarrollo | C<br><br>N - R<br><br>- C<br><br>C - R    | Inicio del proceso con EE <br><br>●      Elaboración de nómina comunal de EE para Niveles de<br><br>Desarrollo<br><br>●      Revisión en Sisprev de historial de trabajo con EE <br><br>Videoconferencias de apoyo al proceso (al menos 1 por región, grupal o individual)<br><br>Definición del nivel de desarrollo de los EE<br><br>●      Análisis cualitativo<br><br>●      Análisis de indicadores<br><br>●      Nivel de desarrollo<br><br>●      Presentación de resultados<br><br>●      Pasos a seguir con el EE | Julio<br><br>Julio a<br><br>Septiembre <br><br>Julio a<br><br>Octubre                                                                          |
+| Análisis de la estrategia                      | C<br><br>R<br><br>R - N<br><br>N<br><br>N | Análisis comunal del proceso <br><br>Sistematización regional de los análisis comunales del proceso de Niveles de Desarrollo. <br><br>Videoconferencias de retroalimentación <br><br>Análisis nacional y sistematización<br><br>Ajustes a orientaciones técnicas PPEE 2021                                                                                                                                                                                                                                                | Octubre<br><br>2 a 13 de<br><br>Noviembre <br><br>Semana del<br><br>23 de<br><br>Noviembre<br><br>16 a 27 de<br><br>Noviembre<br><br>Diciembre |
 
 # ANEXO: ACTIVIDADES SUGERIDAS POR ÁMBITOS Y CAPACIDADES PREVENTIVAS   
 
-GESTIÓN ESCOLAR PREVENTIVA
+## GESTIÓN ESCOLAR PREVENTIVA
 
 |   |   |   |   |
 |---|---|---|---|
@@ -271,7 +272,7 @@ GESTIÓN ESCOLAR PREVENTIVA
 ||●|Protocolos o procedimientos de actuación para situaciones de vulnerabilidad y/o riesgo específicas: vulneración de derechos, suicidio, intervención en crisis, ausentismo o deserción escolar.|   |
 ||●|Establecer las condiciones necesarias para fomentar un ambiente seguro y libre de drogas al interior del establecimiento.|   |
 
-INVOLUCRAMIENTO ESCOLAR
+## INVOLUCRAMIENTO ESCOLAR
 
 |   |   |
 |---|---|
@@ -291,7 +292,7 @@ INVOLUCRAMIENTO ESCOLAR
 ||●|Intervenciones que apunten al fortalecimiento de factores protectores de los estudiantes.|
 ||●|Intencionar la participación de estudiantes en actividades que tienen por objeto realizar un aporte al establecimiento (mural, diario mural, huerto, acto musical o artístico, etc), de manera de integrarlos y resignificar participación en la comunidad educativa.|
 
-VINCULACIÓN CON EL MEDIO
+### VINCULACIÓN CON EL MEDIO
 
 |                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -302,6 +303,4 @@ VINCULACIÓN CON EL MEDIO
 |                                                                              | ●                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Favorecer la participación y la ciudadanía de los/las jóvenes en instancias socioculturales.                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |                                                                              | ●                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Intervenciones en recreos y/o aulas apuntando al reconocimiento de la historia e identidad del establecimiento y del barrio/entorno en el que está inserto.                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-
-
-[[Orientaciones Técnicas Niveles de Desarrollo Preventivo en Establecimientos Educacionales.pdf]]
+[Enlace a documento](https://drive.google.com/open?id=1cKWSANImhWTVisvJ5q_G3uYU2HAWulFe&usp=drive_fs)
