@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"df-home":true,"tags":["gardenEntry"],"permalink":"/bienvenida/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-16T09:05:37.971-04:00"}
+{"dg-publish":true,"df-home":true,"tags":["gardenEntry"],"permalink":"/bienvenida/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-16T17:29:10.350-04:00"}
 ---
 
 ![logo_plan.png](/img/user/Imagenes/logo_plan.png)
