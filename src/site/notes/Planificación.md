@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/planificacion/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16T09:05:38.561-04:00","updated":"2025-06-16T09:08:59.224-04:00"}
+---
+
+```mermaid
+
+gantt
+
+    title Proyecto de ejemplo
+
+    dateFormat  YYYY-MM-DD
+
+    section Planificación
+
+    Definir requerimientos :a1, 2025-06-16, 5d
+
+    Análisis de riesgos    :a2, after a1, 3d
+
+```
