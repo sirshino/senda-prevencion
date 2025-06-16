@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/educacion/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16T12:50:51.519-04:00","updated":"2025-06-16T13:00:47.802-04:00"}
+{"dg-publish":true,"permalink":"/educacion/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-16T13:00:47.802-04:00"}
 ---
 
 

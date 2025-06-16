@@ -1,10 +1,10 @@
 ---
-{"Tema":["Educación","PrePARA2","Componente2"],"Nivel":["Nivel Central"],"dg-publish":true,"Fecha":"2020-05-08","permalink":"/orientaciones-tecnicas-niveles-de-desarrollo-en-establecimientos-educacionales/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16T12:12:46.881-04:00","updated":"2025-06-16T12:59:38.124-04:00"}
+{"Tema":["Educación","PrePARA2","Componente2"],"Nivel":["Nivel Central"],"dg-publish":true,"Fecha":"2020-05-08","permalink":"/orientaciones-tecnicas-niveles-de-desarrollo-en-establecimientos-educacionales/","dgPassFrontmatter":true,"noteIcon":"","created":"2020-05-08","updated":"2025-06-16T13:08:06.314-04:00"}
 ---
 
 # DESCRIPCIÓN
 
-El Programa de [[Prevención en Establecimientos Educacionales\|Prevención en Establecimientos Educacionales]] (PPEE) orienta las acciones asociadas a fortalecer las competencias y capacidades de las comunidades educativas, desde los componentes Gestión Escolar Preventiva, Involucramiento Escolar y Vinculación con el Medio. 
+El Programa de [[Programa de Prevención en Establecimientos Educacionales\|Programa de Prevención en Establecimientos Educacionales]] (PPEE) orienta las acciones asociadas a fortalecer las competencias y capacidades de las comunidades educativas, desde los componentes Gestión Escolar Preventiva, Involucramiento Escolar y Vinculación con el Medio. 
 
 En base a lo señalado, se busca que cada Establecimiento Educacional que participa en el programa oriente la prevención del consumo de sustancias en su comunidad y genere acciones en estos tres ámbitos. 
 
@@ -18,7 +18,7 @@ INTRODUCCIÓN
 
 El fortalecimiento de una cultura preventiva en Establecimientos Educacionales está orientado hacia la generación de estrategias de prevención en las que la comunidad educativa tome activamente un rol en el cuidado y protección de estudiantes, en tanto niños, niñas y adolescentes en pleno desarrollo. 
 
-Desde esta mirada, el Programa de Prevención en Establecimientos Educacionales (PPEE) orienta acciones específicas asociadas a fortalecer las competencias y capacidades de las comunidades educativas en los Establecimientos Educacionales en tres ámbitos: Gestión Escolar Preventiva, Involucramiento Escolar y Vinculación con el Medio. En cada uno de estos ámbitos se generan acciones y productos y se espera que el establecimiento educacional se vaya interiorizando y tomando un rol cada vez más activo en la prevención del consumo de sustancias, mediante la idea de que ejecutar acciones aisladas no tiene resultados a largo plazo en evitar, disminuir y/o retrasar el consumo de sustancias. 
+Desde esta mirada, el [[Programa de Prevención en Establecimientos Educacionales\|Programa de Prevención en Establecimientos Educacionales]] (PPEE) orienta acciones específicas asociadas a fortalecer las competencias y capacidades de las comunidades educativas en los Establecimientos Educacionales en tres ámbitos: Gestión Escolar Preventiva, Involucramiento Escolar y Vinculación con el Medio. En cada uno de estos ámbitos se generan acciones y productos y se espera que el establecimiento educacional se vaya interiorizando y tomando un rol cada vez más activo en la prevención del consumo de sustancias, mediante la idea de que ejecutar acciones aisladas no tiene resultados a largo plazo en evitar, disminuir y/o retrasar el consumo de sustancias. 
 
 Esto interpela directamente a la comunidad educativa, considerando que para prevenir el consumo de sustancias es necesario orientar acciones concretas, que hagan sentido y sean visibilizadas como propias.
 

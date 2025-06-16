@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Tema":["Educación"],"Fecha":"2025-06-16","permalink":"/programa-pre-para-2/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16T12:29:59.826-04:00","updated":"2025-06-16T13:02:15.331-04:00"}
+{"dg-publish":true,"Tema":["Educación"],"Fecha":"2025-06-16","permalink":"/programa-pre-para-2/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16","updated":"2025-06-16T13:02:15.331-04:00"}
 ---
 
 

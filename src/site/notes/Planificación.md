@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/planificacion/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16T09:05:38.561-04:00","updated":"2025-06-16T09:19:57.306-04:00"}
+{"dg-publish":true,"permalink":"/planificacion/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-16T09:19:57.306-04:00"}
 ---
 
 ```mermaid
