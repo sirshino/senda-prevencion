@@ -1,5 +1,5 @@
 ---
-{"Tema":["Componente2","[[Educación]]","[[Programa PrePARA2]]"],"Nivel":["Nivel Central"],"dg-publish":true,"Fecha":"2020-05-08","permalink":"/educacion/orientaciones-tecnicas-niveles-de-desarrollo-en-establecimientos-educacionales/","dgPassFrontmatter":true,"noteIcon":"","created":"2020-05-08","updated":"2025-06-22T18:01:24.017-04:00"}
+{"Tema":["Componente2","Educación","Programa PrePARA2"],"Nivel":["Nivel Central"],"dg-publish":true,"Fecha":"2020-05-08","permalink":"/educacion/orientaciones-tecnicas-niveles-de-desarrollo-en-establecimientos-educacionales/","dgPassFrontmatter":true,"noteIcon":"","created":"2020-05-08","updated":"2025-06-22T18:16:52.693-04:00"}
 ---
 
 # DESCRIPCIÓN
