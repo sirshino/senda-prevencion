@@ -1,5 +1,5 @@
 ---
-{"Tema":["Componente2","[[Educación]]","[[Programa PrePARA2]]"],"Nivel":["Nivel Central"],"dg-publish":true,"Fecha":"2020-05-08","permalink":"/educacion/orientaciones-tecnicas-niveles-de-desarrollo-en-establecimientos-educacionales/","dgPassFrontmatter":true,"noteIcon":"","created":"2020-05-08","updated":"2025-06-16T17:14:00.707-04:00"}
+{"Tema":["Componente2","[[Educación]]","[[Programa PrePARA2]]"],"Nivel":["Nivel Central"],"dg-publish":true,"Fecha":"2020-05-08","permalink":"/educacion/orientaciones-tecnicas-niveles-de-desarrollo-en-establecimientos-educacionales/","dgPassFrontmatter":true,"noteIcon":"","created":"2020-05-08","updated":"2025-06-22T18:01:24.017-04:00"}
 ---
 
 # DESCRIPCIÓN
@@ -14,7 +14,7 @@ En esta primera orientación de niveles de desarrollo y en lo que respecta al a�
 
 # Documento técnico - Niveles de desarrollo
 
-## INTRODUCCIÓN
+## INTRODUCCIÓN:
 
 El fortalecimiento de una cultura preventiva en Establecimientos Educacionales está orientado hacia la generación de estrategias de prevención en las que la comunidad educativa tome activamente un rol en el cuidado y protección de estudiantes, en tanto niños, niñas y adolescentes en pleno desarrollo. 
 
