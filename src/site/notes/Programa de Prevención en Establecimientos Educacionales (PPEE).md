@@ -3,4 +3,4 @@
 ---
 
 
-También conocido como PPEE. El PPEE funcionó hasta el año 2020, cuando fue reemplazado por el Programa PrePARA2. Las actividades del PPEE quedaron como el Componente 2 del [[Programa PrePARA2\|Programa PrePARA2]] 
+También conocido como PPEE. El PPEE funcionó hasta el año 2020, cuando fue reemplazado por el Programa PrePARA2. Las actividades del PPEE quedaron como el Componente 2 del [[Educación/Programa PrePARA2\|Programa PrePARA2]] 

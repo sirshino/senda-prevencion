@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2024-12-02","Tema":["Educación","Programa PrePARA2"],"permalink":"/educacion/orientaciones-tecnicas-para-la-continuidad-de-establecimientos-educacionales-que-participan-del-sistema-integral-de-prevencion-en-establecimientos-educacionales/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02","updated":"2025-06-22T18:17:08.933-04:00"}
+{"dg-publish":true,"Fecha":"2024-12-02","Tema":["[[Educación]]"],"permalink":"/educacion/orientaciones-tecnicas-para-la-continuidad-de-establecimientos-educacionales-que-participan-del-sistema-integral-de-prevencion-en-establecimientos-educacionales/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02","updated":"2025-06-22T18:22:54.564-04:00"}
 ---
 
 El presente documento entrega orientaciones para evaluar la continuidad 2024 de establecimientos educacionales actualmente en el Programa PrePARA2, ya sea con Componentes 1 y 2 o de implementación completa (considerando Componentes 3 y 4). Del mismo modo, orienta sobre el procedimiento de reemplazo de establecimientos que no continuarán su participación el 2024.
