@@ -6,7 +6,7 @@
 
 # Componentes
 - COMPONENTE 1: 
-- [[COMPONENTE 2 Desarrollo de competencias institucionales\|COMPONENTE 2: Desarrollo de competencias institucionales]]
+- [[Educación/COMPONENTE 2 Desarrollo de competencias institucionales\|COMPONENTE 2: Desarrollo de competencias institucionales]]
 - COMPONENTE 3: 
 - COMPONENTE 4: 
 
