@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Actualizado":null,"Tema":["[[Programa PrePARA2]]","[[Espacios Educativos]]","[[COMPONENTE 2 Desarrollo de competencias institucionales]]"],"permalink":"/educacion/programas-y-estrategias/protocolo-de-actuacion/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-26T17:52:54.535-04:00"}
+{"dg-publish":true,"Actualizado":null,"Tema":["[[Programa PrePARA2]]","[[Espacios Educativos]]","[[COMPONENTE 2 Desarrollo de competencias institucionales]]"],"permalink":"/educacion/programas-y-estrategias/protocolo-de-actuacion/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-26T18:00:28.385-04:00"}
 ---
 
 En junio del 2018, la Superintendencia de Educación puso a disposición de
@@ -23,7 +23,8 @@ planes y programas de prevención, orientados al cuidado, protección y
 formación de estudiantes comprometidos con el bienestar de su comunidad.
 Lo anterior convoca y demanda a los distintos estamentos.
 
-> [!¿Cómo pueden aportar los docentes y profesionales de la educación?]
+> [! ]
+> **¿Cómo pueden aportar los docentes y profesionales de la educación?**
 > - Con vínculos respetuosos con los estudiantes y el resto de la comunidad educativa que promuevan la comunicación y el aprendizaje. 
 > - Contribuyendo a una cultura preventiva que promueva el desarrollo de
 una vida saludable y no consumo de alcohol y otras drogas.
