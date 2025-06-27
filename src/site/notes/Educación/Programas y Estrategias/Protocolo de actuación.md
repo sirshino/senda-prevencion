@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Actualizado":null,"Tema":["[[Programa PrePARA2]]","[[Espacios Educativos]]","[[COMPONENTE 2 Desarrollo de competencias institucionales]]"],"permalink":"/educacion/programas-y-estrategias/protocolo-de-actuacion/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-26T18:00:28.385-04:00"}
+{"dg-publish":true,"Actualizado":null,"Tema":["Espacios Educativos","Componente2","Programa PrePARA2"],"permalink":"/educacion/programas-y-estrategias/protocolo-de-actuacion/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-27T10:36:50.726-04:00"}
 ---
 
 En junio del 2018, la Superintendencia de Educación puso a disposición de
@@ -32,10 +32,6 @@ una vida saludable y no consumo de alcohol y otras drogas.
 de apoyo.
 > - Promoviendo el desarrollo de estrategias de prevención de forma oportuna,
 permanente y participativa.
-
-
-
-
 
 
 
