@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Actualizado":null,"Tema":["Espacios Educativos","Componente2","Programa PrePARA2"],"permalink":"/educacion/programas-y-estrategias/protocolo-de-actuacion/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-27T10:36:50.726-04:00"}
+{"dg-publish":true,"Actualizado":null,"Tema":["Espacios Educativos","Componente2","Programa PrePARA2"],"permalink":"/educacion/programas-y-estrategias/protocolo-de-actuacion/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-27T15:52:18.395-04:00"}
 ---
 
 En junio del 2018, la Superintendencia de Educación puso a disposición de
@@ -34,10 +34,6 @@ de apoyo.
 permanente y participativa.
 
 
-
-
-
-
 ## Protocolo de actuación frente a situaciones relacionadas con alcohol y otras drogas
 Los contenidos mínimos que debe considerar el protocolo son:
 - Todas las acciones y etapas que componen el procedimiento mediante el cual se resolverán las situaciones relacionadas a esta temática.
@@ -50,6 +46,7 @@ Los contenidos mínimos que debe considerar el protocolo son:
 - Procesos de seguimiento, registro y trabajo en red con las instituciones de derivación.
 # Documentos de Referencia
 
-| Año  | Autor | Documento                                                                                                                                                                                                      |
-| ---- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2018 | SENDA | [Gestión escolar preventiva en establecimientos educacionales para la prevención del consumo de alcohol y otras drogas](https://drive.google.com/file/d/1RU55oUxWzYX40eK8pDgVvYqPbT5ZxtD2/view?usp=drive_link) |
+| Año  | Autor | Documento                                                                                                                                                                                                      | Tipo  |
+| ---- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| 2018 | SENDA | [Gestión escolar preventiva en establecimientos educacionales para la prevención del consumo de alcohol y otras drogas](https://drive.google.com/file/d/1RU55oUxWzYX40eK8pDgVvYqPbT5ZxtD2/view?usp=drive_link) | Libro |
+

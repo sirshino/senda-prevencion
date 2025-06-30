@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"Tema":["Evidencia ","Artículo"],"Título":"Advancing the implementation of evidence-based substance use prevention in Latin America: the Evidencia Viva program registry","permalink":"/evidencia/articulos/sanchez-advancing-implementation-evidencebased2025/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-27T14:50:08.424-04:00"}
+{"dg-publish":true,"Tema":["Evidencia","Artículo"],"Título":"Advancing the implementation of evidence-based substance use prevention in Latin America: the Evidencia Viva program registry","Tipo":["Artículo Revista Científica"],"permalink":"/evidencia/articulos/sanchez-advancing-implementation-evidencebased2025/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-27T15:49:47.081-04:00"}
 ---
-
 
 ## Advancing the implementation of evidence-based substance use prevention in Latin America: the Evidencia Viva program registry
 
 ### Formatted Bibliography
 
 Sanchez, Z. M., Burkhart, G., Hoffmann, E. V., Salazar, F., & Gervilla, E. (2025). Advancing the implementation of evidence-based substance use prevention in Latin America: The Evidencia Viva program registry. _Revista Panamericana de Salud Pública_, _49_, 1. [https://doi.org/10.26633/RPSP.2025.64](https://doi.org/10.26633/RPSP.2025.64)
-
 
 ### Abstract
 

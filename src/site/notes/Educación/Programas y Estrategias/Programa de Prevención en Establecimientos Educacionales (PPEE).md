@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/educacion/programas-y-estrategias/programa-de-prevencion-en-establecimientos-educacionales-ppee/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-16T17:14:13.449-04:00"}
+{"dg-publish":true,"permalink":"/educacion/programas-y-estrategias/programa-de-prevencion-en-establecimientos-educacionales-ppee/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-16T17:13:50.424-04:00"}
 ---
 
 

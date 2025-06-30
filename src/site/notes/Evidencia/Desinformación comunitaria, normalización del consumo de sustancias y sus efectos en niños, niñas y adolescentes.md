@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Tema":["Evidencia ","Desinformación Comunitaria"],"Título":"Desinformación comunitaria, normalización del consumo de sustancias y sus efectos en niños, niñas y adolescentes","permalink":"/evidencia/desinformacion-comunitaria-normalizacion-del-consumo-de-sustancias-y-sus-efectos-en-ninos-ninas-y-adolescentes/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-27T14:45:13.416-04:00"}
+{"dg-publish":true,"Tema":["Evidencia","Desinformación Comunitaria"],"Título":"Desinformación comunitaria, normalización del consumo de sustancias y sus efectos en niños, niñas y adolescentes","permalink":"/evidencia/desinformacion-comunitaria-normalizacion-del-consumo-de-sustancias-y-sus-efectos-en-ninos-ninas-y-adolescentes/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-27T14:45:19.295-04:00"}
 ---
 
 ## Desinformación comunitaria y baja percepción de riesgo

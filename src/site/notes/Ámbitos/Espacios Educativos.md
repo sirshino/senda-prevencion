@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ambitos/espacios-educativos/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-27T14:38:31.924-04:00"}
+{"dg-publish":true,"permalink":"/ambitos/espacios-educativos/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-27T14:38:39.303-04:00"}
 ---
 
 # Tabla de Notas sobre Espacios Educativos

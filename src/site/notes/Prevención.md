@@ -1,5 +1,5 @@
 ---
-{"Autores":[],"Nivel":["Nivel Central"],"Actualizado":"2025-06-13","Fecha de Creación":"2025-06-13","tags":["Conceptos","ConceptosGenerales"],"dg-publish":true,"df-home":false,"permalink":"/prevencion/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-26T10:18:23.185-04:00"}
+{"Autores":[],"Nivel":["Nivel Central"],"Actualizado":"2025-06-13","Fecha de Creación":"2025-06-13","tags":["Conceptos","ConceptosGenerales"],"dg-publish":true,"df-home":false,"permalink":"/prevencion/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-26T10:18:32.130-04:00"}
 ---
 
 # Definición de Prevención 

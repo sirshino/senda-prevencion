@@ -1,5 +1,5 @@
 ---
-{"Tema":["Evidencia ","Artículo","Cannabis"],"Título":"The Effects of Cannabinoids on Executive Functions: Evidence from Cannabis and Synthetic Cannabinoids—A Systematic Review","dg-publish":true,"permalink":"/evidencia/articulos/cohen-effects-cannabinoids-executive2018/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-27T14:50:01.385-04:00"}
+{"Título":"The Effects of Cannabinoids on Executive Functions: Evidence from Cannabis and Synthetic Cannabinoids—A Systematic Review","Tipo":["Artículo Revista Científica"],"Tema":["Evidencia","Artículo","Cannabis"],"dg-publish":true,"permalink":"/evidencia/articulos/cohen-effects-cannabinoids-executive2018/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-27T15:50:06.863-04:00"}
 ---
 
 ## The Effects of Cannabinoids on Executive Functions: Evidence from Cannabis and Synthetic Cannabinoids—A Systematic Review

@@ -1,5 +1,5 @@
 ---
-{"Actualizado":"2025-06-20","dg-publish":true,"Tema":[],"permalink":"/educacion/programas-y-estrategias/componente-2-desarrollo-de-competencias-institucionales/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-27T09:42:25.629-04:00"}
+{"Actualizado":"2025-06-20","dg-publish":true,"Tema":[],"permalink":"/educacion/programas-y-estrategias/componente-2-desarrollo-de-competencias-institucionales/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-27T09:42:31.913-04:00"}
 ---
 
 # Descripción
