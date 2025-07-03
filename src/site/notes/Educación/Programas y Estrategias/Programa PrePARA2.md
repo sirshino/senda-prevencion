@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Tema":[],"Fecha":"2025-06-16","permalink":"/educacion/programas-y-estrategias/programa-pre-para-2/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16","updated":"2025-06-27T09:42:29.168-04:00"}
+{"dg-publish":true,"Tema":["Espacios Educativos"],"Fecha":"2025-06-16","permalink":"/educacion/programas-y-estrategias/programa-pre-para-2/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16","updated":"2025-07-03T11:46:09.985-04:00"}
 ---
 
 # Propósito 

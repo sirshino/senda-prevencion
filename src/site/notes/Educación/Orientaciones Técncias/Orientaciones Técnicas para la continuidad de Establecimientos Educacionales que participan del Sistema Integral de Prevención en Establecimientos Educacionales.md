@@ -1,18 +1,15 @@
 ---
-{"dg-publish":true,"Fecha":"2024-12-02","Tema":[],"permalink":"/educacion/orientaciones-tecncias/orientaciones-tecnicas-para-la-continuidad-de-establecimientos-educacionales-que-participan-del-sistema-integral-de-prevencion-en-establecimientos-educacionales/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02","updated":"2025-06-27T09:42:08.576-04:00"}
+{"dg-publish":true,"Fecha":"2024-12-02","Tema":["Espacios Educativos"],"permalink":"/educacion/orientaciones-tecncias/orientaciones-tecnicas-para-la-continuidad-de-establecimientos-educacionales-que-participan-del-sistema-integral-de-prevencion-en-establecimientos-educacionales/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02","updated":"2025-07-03T12:10:28.009-04:00"}
 ---
 
 El presente documento entrega orientaciones para evaluar la continuidad 2024 de establecimientos educacionales actualmente en el Programa PrePARA2, ya sea con Componentes 1 y 2 o de implementación completa (considerando Componentes 3 y 4). Del mismo modo, orienta sobre el procedimiento de reemplazo de establecimientos que no continuarán su participación el 2024.
 
 Al respecto, resulta relevante consignar los criterios mínimos que deben estar presentes en los establecimientos educacionales para la implementación de los programas preventivos y sus distintos niveles de prevención:
 
-●      Establecimientos que cumplan con los criterios de focalización consignados.
-
-●      Establecimientos que, de acuerdo a los diagnósticos comunales, requieran la implementación de la oferta programática disponible.
-
-●      Establecimientos que faciliten los espacios de participación para la inserción de la temática preventiva (consejos escolares o mesas educativas), incluyendo capacitaciones y otras actividades necesarias para el trabajo con la comunidad educativa.
-
-●      Establecimientos dispuestos a comprometerse en el desarrollo de una mirada preventiva permanente y progresiva (implementación de Niveles de Desarrollo).
+- Establecimientos que cumplan con los criterios de focalización consignados.
+- Establecimientos que, de acuerdo a los diagnósticos comunales, requieran la implementación de la oferta programática disponible.
+- Establecimientos que faciliten los espacios de participación para la inserción de la temática preventiva (consejos escolares o mesas educativas), incluyendo capacitaciones y otras actividades necesarias para el trabajo con la comunidad educativa.
+- Establecimientos dispuestos a comprometerse en el desarrollo de una mirada preventiva permanente y progresiva (implementación de Niveles de Desarrollo).
 
 Teniendo esto en cuenta, las direcciones regionales y los equipos comunales podrán definir la continuidad de los establecimientos e identificar aquellos que no continuarán participando en la implementación 2024.
 

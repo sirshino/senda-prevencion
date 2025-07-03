@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"Tema":["Parentalidad","Programa Parentalidad","RIRE","Casos"],"permalink":"/rire/casos/analisis-caso-1-parentalidad-componente-3-preparacion/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-06-30T14:54:02.317-04:00"}
+{"dg-publish":true,"Tema":["Parentalidad","Programa Parentalidad","RIRE","Casos"],"permalink":"/rire/casos/analisis-caso-1-parentalidad-componente-3-preparacion/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-07-03T11:31:25.282-04:00"}
 ---
-
 
 # Antecedentes
 Una profesional del [[Parentalidad/Programa Parentalidad\|Programa Parentalidad]] a punto de iniciar el primer [[Parentalidad/Taller de Involucramiento Parental\|taller]]. La asesora del nivel regional observa una actitud dubitativa de parte la profesional quien estaría posponiendo el inicio de la actividad. La profesional ha expresado  temores respecto a la [[Parentalidad/Taller de Involucramiento Parental#Convocatoria\| convocatoria]] y a la pertinencia del taller. Dice no saber cómo hacerlo, a pesar de que, a juicio de la asesora técnica regional, la profesional tiene todo listo, es bien organizada y tiene un auténtico deseo de querer responder a las exigencias del programa.
